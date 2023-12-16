@@ -8,11 +8,12 @@ import pages.OtpBankPage;
 
 import static io.qameta.allure.Allure.step;
 
-@Tag("all-test")
+
 public class OtpBankPageTest extends TestBase {
     OtpBankPage otpBankPage = new OtpBankPage();
 
     @Test
+    @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка наличия номера телефона для Premium клиентов в меню Контакты")
     void checkNumberPhone() {
@@ -28,6 +29,7 @@ public class OtpBankPageTest extends TestBase {
     }
 
     @Test
+    @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка EN версии сайта ")
     void checkEnVersion() {
@@ -50,6 +52,7 @@ public class OtpBankPageTest extends TestBase {
     }
 
     @Test
+    @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка элемента выпадющего списка в меню Кредиты ")
     void checkCredit() {
@@ -66,6 +69,7 @@ public class OtpBankPageTest extends TestBase {
     }
 
     @Test
+    @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка элемента выпадющего списка в меню Дебетовые карты")
     void checkDebitCards() {
@@ -81,6 +85,7 @@ public class OtpBankPageTest extends TestBase {
     }
 
     @Test
+    @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка наличие кнопки Интерент банк ")
     void checkButton() {
