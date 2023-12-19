@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/main
 # Проект по автоматизации тестирования для компании [ОТП Банк](https://www.otpbank.ru/)
 
 > ОТП Банк — это универсальная кредитная организация, предоставляющая широкий спектр банковских услуг и продуктов для корпоративных клиентов и частных лиц.
@@ -23,8 +20,8 @@ ____
 ## :computer:<a name="Используемый стек">**Используемый стек:**</a>
 
 <p align="center">
-<a href="https://www.jetbrains.com/idea/"><img src="media/logo/Java.svg" width="50" height="50"  alt="Java"/></a>  
-<a href="https://www.java.com/"><img width="6%" title="Java" src="files/logo/Java.svg"></a>
+<a href="https://www.jetbrains.com/idea/"><img src="media/logo/Java.svg)logo/Java.svg" width="50" height="50"  alt="Java"/></a>  
+<a href="https://www.java.com/"><img width="6%" title="Java" src="media/logo/Java.svg"></a>
 <a href="https://selenide.org/"><img width="6%" title="Selenide" src="media/logo/Selenide.svg"></a>
 <a href="https://aerokube.com/selenoid/"><img width="6%" title="Selenoid" src="media/logo/Selenoid.svg"></a>
 <a href="https://github.com/allure-framework/allure2"><img width="6%" title="Allure Report" src="media/logo/Allure_Report.svg"></a>
@@ -59,9 +56,7 @@ all_test
 ```
 ____
 <a id="jenkins"></a>
-## <img alt="Jenkins" height="25" src="media/logo/Jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://https://jenkins.autotests.cloud/job/BankOTP/)</a>
-<<<<<<< HEAD
-____
-=======
-____
->>>>>>> origin/main
+## <img alt="Jenkins" height="25" src="media/logo/Jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://jenkins.autotests.cloud/job/BankOTP/)</a>
+<p align="center">  
+<a href="https://jenkins.autotests.cloud/job/BankOTP/"><img src="media/screenshots/jenkins.png" alt="Jenkins"/></a>  
+</p>
