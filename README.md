@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 # Проект по автоматизации тестирования для компании [ОТП Банк](https://www.otpbank.ru/)
 
 > ОТП Банк — это универсальная кредитная организация, предоставляющая широкий спектр банковских услуг и продуктов для корпоративных клиентов и частных лиц.
@@ -57,4 +60,8 @@ all_test
 ____
 <a id="jenkins"></a>
 ## <img alt="Jenkins" height="25" src="media/logo/Jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://https://jenkins.autotests.cloud/job/BankOTP/)</a>
+<<<<<<< HEAD
 ____
+=======
+____
+>>>>>>> origin/main
