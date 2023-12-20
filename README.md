@@ -61,17 +61,39 @@ ____
 </p>
 
 <a id="allure"></a>
-## <img src="src/media/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> *Allure* <a target="_blank" href="https://jenkins.autotests.cloud/job/BankOTP/allure/">*отчёт*</a>
+## <img src="src/media/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Allure <a target="_blank" href="https://jenkins.autotests.cloud/job/BankOTP/allure/">отчёт</a>
 
-### *Основная страница отчёта*
+### Основная страница отчёта
 
 <p align="center">  
 <img title="Allure Overview Dashboard" src="src/media/screenshots/allureReport.png">  
 </p>  
 
-## *Allure TestOps Dashboard*
+<a id="allure-testops"></a>
+## <img src="src/media/logo/Allure_TO.svg" width="25" height="25"  alt="Allure"/></a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/3879/dashboards">Allure TestOps</a>
+### Allure TestOps Dashboard
 
 <p align="center">  
 <img title="Allure TestOps Dashboard" src="src/media/screenshots/allureTestOps.png">  
 </p>  
 
+### Автотесты
+
+
+<p align="center">  
+<img title="Allure TestOps Tests" src="src/media/screenshots/allureAutoTest.png">  
+</p>
+
+<a id="jira"></a>
+## <img src="src/media/logo/Jira.svg" width="25" height="25"  alt="Allure"/></a>Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/AUTO-1175">Jira</a>
+
+<p align="center">  
+<img title="Jira" src="src/media/screenshots/jira.png">  
+</p>
+
+<a id="telegram"></a>
+## <img src="src/media/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a>Уведомление в Telegram 
+
+<p align="center">  
+<img title="Allure Overview Dashboard" src="src/media/screenshots/telegram.png">  
+</p>
