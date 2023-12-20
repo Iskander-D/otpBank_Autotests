@@ -59,3 +59,20 @@ ____
 <p align="center">  
 <a href="https://jenkins.autotests.cloud/job/BankOTP/"><img src="src/media/screenshots/jenkins.png" alt="Jenkins"/></a>  
 </p>
+____
+<a id="allure"></a>
+## <img src="src/media/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> *Allure* <a target="_blank" href=https://jenkins.autotests.cloud/job/BankOTP/allure/">*отчёт*</a>
+___
+
+### *Основная страница отчёта*
+
+<p align="center">  
+<img title="Allure Overview Dashboard" src="src/media/screenshots/allureReport.png">  
+</p>  
+
+## *Allure TestOps Dashboard*
+
+<p align="center">  
+<img title="Allure TestOps Dashboard" src="src/media/screenshots/allureTestOps.png">  
+</p>  
+
