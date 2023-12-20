@@ -41,18 +41,6 @@ ____
 ```bash  
 gradle clean all_test
 ```
-***Удалённый запуск через Jenkins:***
-```bash  
-clean
-all_test
--Dbrowser=${BROWSER}
--DbrowserVersion=${BROWSER_VERSION}
--DbrowserSize=${BROWSER_SIZE}
--DbrowserMobileView="${BROWSER_MOBILE}"
--DremoteDriverUrl=https://${LOGIN}:${PASSWORD}@${REMOTE_DRIVER_URL}/wd/hub/
--DvideoStorage=https://${REMOTE_DRIVER_URL}/video/
--Dthreads=${THREADS}
-```
 ____
 <a id="jenkins"></a>
 ## <img alt="Jenkins" height="25" src="src/media/logo/Jenkins.svg" width="25"/></a><a name="Сборка"></a>Сборка в [Jenkins](https://jenkins.autotests.cloud/job/BankOTP/)</a>
@@ -63,7 +51,7 @@ ____
 <a id="allure"></a>
 ## <img src="src/media/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Allure <a target="_blank" href="https://jenkins.autotests.cloud/job/BankOTP/allure/">отчёт</a>
 
-### Основная страница отчёта
+### *Основная страница отчёта*
 
 <p align="center">  
 <img title="Allure Overview Dashboard" src="src/media/screenshots/allureReport.png">  
@@ -71,13 +59,13 @@ ____
 
 <a id="allure-testops"></a>
 ## <img src="src/media/logo/Allure_TO.svg" width="25" height="25"  alt="Allure"/></a>Интеграция с <a target="_blank" href="https://allure.autotests.cloud/project/3879/dashboards">Allure TestOps</a>
-### Allure TestOps Dashboard
+### *Allure TestOps Dashboard*
 
 <p align="center">  
 <img title="Allure TestOps Dashboard" src="src/media/screenshots/allureTestOps.png">  
 </p>  
 
-### Автотесты
+### *Автотесты*
 
 
 <p align="center">  
