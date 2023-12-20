@@ -61,7 +61,7 @@ ____
 </p>
 ____
 <a id="allure"></a>
-## <img src="src/media/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> *Allure* <a target="_blank" href=https://jenkins.autotests.cloud/job/BankOTP/allure/">*отчёт*</a>
+## <img src="src/media/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> *Allure* <a target="_blank" href="https://jenkins.autotests.cloud/job/BankOTP/allure/">*отчёт*</a>
 ___
 
 ### *Основная страница отчёта*
