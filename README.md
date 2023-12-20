@@ -97,3 +97,10 @@ ____
 <p align="center">  
 <img title="Allure Overview Dashboard" src="src/media/screenshots/telegram.png">  
 </p>
+
+<a id="video"></a>
+## <img src="src/media/logo/Selenoid.svg" width="25" height="25"  alt="Selenoid"/></a> Примеры видео выполнения тестов на Selenoid
+
+
+
+<img title="Selenoid Video" src="src/media/screenshots/Video.gif" width="650" height="350"  alt="video">  
