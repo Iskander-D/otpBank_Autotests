@@ -73,7 +73,7 @@ ____
 </p>
 
 <a id="jira"></a>
-## <img src="src/media/logo/Jira.svg" width="25" height="25"  alt="Allure"/></a>Интеграция с <a target="_blank" href="ttps://jira.autotests.cloud/browse/HOMEWORK-1004">Jira</a>
+## <img src="src/media/logo/Jira.svg" width="25" height="25"  alt="Allure"/></a>Интеграция с <a target="_blank" href="htps://jira.autotests.cloud/browse/HOMEWORK-1004">Jira</a>
 
 <p align="center">  
 <img title="Jira" src="src/media/screenshots/jira.png">  
