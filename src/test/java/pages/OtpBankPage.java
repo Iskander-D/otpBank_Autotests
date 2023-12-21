@@ -16,7 +16,7 @@ public class OtpBankPage {
             searchEnVersion = $("span.n-header-top-menu-list__item-text"),
             checkBankDetails = $$("div.main-menu__item").findBy(text("Bank details")),
             checkBankInfo = $$("a.header-top__link").findBy(text("About us")),
-            checkResultAdres = $(withText("Leningradskoe highway")),
+            checkResultAddress = $(withText("Leningradskoe highway")),
             checkCredits = $$("ul.n-header-main-nav-menu").findBy(text("Кредиты")),
             checkCreditResults = $(withText("Кредит на автомобиль")),
             checkCards = $$("ul.n-header-main-nav-menu").findBy(text("Дебетовые карты")),
@@ -48,8 +48,8 @@ public class OtpBankPage {
         return this;
     }
 
-    public OtpBankPage checkAddrres() {
-        checkResultAdres.shouldBe(Condition.exist);
+    public OtpBankPage checkAddress() {
+        checkResultAddress.shouldBe(Condition.exist);
         return this;
     }
 

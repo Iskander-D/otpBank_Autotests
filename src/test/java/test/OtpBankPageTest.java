@@ -16,7 +16,7 @@ public class OtpBankPageTest extends TestBase {
     @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка наличия номера телефона для Premium клиентов в меню Контакты")
-    void checkNumberPhone() {
+    void checkNumberPhoneTest() {
         step("Открываем главную страницу ОТП Банка", () -> {
             otpBankPage.openPage();
         });
@@ -32,7 +32,7 @@ public class OtpBankPageTest extends TestBase {
     @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка EN версии сайта ")
-    void checkEnVersion() {
+    void checkEnVersionTest() {
         step("Открываем главную страницу ОТП Банка", () -> {
             otpBankPage.openPage();
         });
@@ -46,7 +46,7 @@ public class OtpBankPageTest extends TestBase {
             otpBankPage.checkBank();
         });
         step("Проверяем наличие улицы на английском языке", () -> {
-            otpBankPage.checkAddrres();
+            otpBankPage.checkAddress();
         });
 
     }
@@ -55,7 +55,7 @@ public class OtpBankPageTest extends TestBase {
     @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка элемента выпадющего списка в меню Кредиты ")
-    void checkCredit() {
+    void checkCreditTest() {
         step("Открываем главную страницу ОТП Банка", () -> {
             otpBankPage.openPage();
         });
@@ -72,7 +72,7 @@ public class OtpBankPageTest extends TestBase {
     @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка элемента выпадющего списка в меню Дебетовые карты")
-    void checkDebitCards() {
+    void checkDebitCardsTest() {
         step("Открываем главную страницу ОТП Банка", () -> {
             otpBankPage.openPage();
         });
@@ -88,7 +88,7 @@ public class OtpBankPageTest extends TestBase {
     @Tag("all-test")
     @Owner("Aleksandr Drozenko")
     @DisplayName("Проверка наличие кнопки Интерент банк ")
-    void checkButton() {
+    void checkButtonTest() {
         step("Открываем главную страницу ОТП Банка", () -> {
             otpBankPage.openPage();
         });
